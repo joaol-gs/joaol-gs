@@ -39,7 +39,7 @@
 #### 💡 Curiosidades:
 - Se tem terminal, eu tô confortável 🖥️
 - Acho que dark mode deveria ser o padrão da vida 🌒
-- Não confio em código que funciona de primeira... sempre reviso 👀
+- Não confio em código que funciona de primeira 👀
 - O melhor barulho? `apt-get install` rodando liso 🔧  
 
 ---
