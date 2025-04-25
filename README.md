@@ -36,7 +36,7 @@
 
 ---
 
-#### 💡 Curiosidades nerds:
+#### 💡 Curiosidades:
 - Se tem terminal, eu tô confortável 🖥️
 - Acho que dark mode deveria ser o padrão da vida 🌒
 - Não confio em código que funciona de primeira... sempre reviso 👀
