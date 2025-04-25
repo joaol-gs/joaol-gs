@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Lucas!
+## 👋 Olá, eu sou o João Lucas!
 
 💻 Analista de TI | 🎓 Estudante de Engenharia da Computação  
 ⚙️ Apaixonado por tecnologia, café forte e códigos que funcionam (de preferência na primeira tentativa 😅)
