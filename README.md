@@ -71,3 +71,7 @@
 ---
 
 📫 Sem redes sociais por enquanto, mas pode me encontrar por aqui mesmo no GitHub!
+
+---
+
+[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaol-gs)](https://github.com/anuraghazra/github-readme-stats)
